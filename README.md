@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**SamBelkacem/SamBelkacem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 PhD student in Artificial Intelligence at USTHB University and currently a member of the Computer Systems Laboratory.
 
 I am passionate about Computer Science, Python programming, Machine learning, and Artificial Intelligence.
