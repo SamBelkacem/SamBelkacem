@@ -1,4 +1,4 @@
-PhD student in Artificial Intelligence at USTHB University and currently a member of the Computer Systems Laboratory.
+PhD in Artificial Intelligence at USTHB University and currently a member of the Computer Systems Laboratory.
 
 I am passionate about Computer Science, Python programming, Machine learning, and Artificial Intelligence.
 
